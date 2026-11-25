@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#08080a"/>
+  <!-- Skewed expressionist rail tracks -->
+  <path d="M56 410 L456 356" stroke="#52525b" stroke-width="18" stroke-linecap="square"/>
+  <path d="M56 446 L456 392" stroke="#e4e4ec" stroke-width="10" stroke-linecap="square"/>
+  <!-- Monkey Tag Ape Head Silhouette -->
+  <circle cx="142" cy="240" r="44" fill="#18181c" stroke="#f4f4f8" stroke-width="14"/>
+  <circle cx="370" cy="240" r="44" fill="#18181c" stroke="#f4f4f8" stroke-width="14"/>
+  <circle cx="256" cy="244" r="110" fill="#121216" stroke="#f4f4f8" stroke-width="16"/>
+  <!-- Top Hat -->
+  <rect x="160" y="130" width="192" height="20" fill="#f4f4f8"/>
+  <rect x="192" y="64" width="128" height="68" fill="#18181c" stroke="#f4f4f8" stroke-width="12"/>
+  <!-- Stark Chalk Eyes -->
+  <ellipse cx="218" cy="236" rx="22" ry="18" fill="#f4f4f8"/>
+  <ellipse cx="294" cy="236" rx="22" ry="18" fill="#f4f4f8"/>
+</svg>

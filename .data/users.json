@@ -1,0 +1,56 @@
+[
+  {
+    "userId": "usr_ac96f24d-9f1c-45b9-b0cf-7abdd872cdfb",
+    "nickname": "tester_twuid",
+    "nicknameLower": "tester_twuid",
+    "displayName": "Macaco Atualizado",
+    "passwordHash": "eecf90d0913a7dfb54b020dad6c3c23f:2418e840a28a73237cf1c16b72c06522269f803fccfcf274877453c6fdd8598d70e6641255c4a41a2d2ac7eedad35d3195e12dc2f3083c07b5d8d77f6986f82d",
+    "coins": 250,
+    "unlockedAbilities": [
+      "dash_basic"
+    ],
+    "equippedAbility": "dash_basic",
+    "unlockedCosmetics": [],
+    "equippedCosmetics": {
+      "head": "none",
+      "back": "none"
+    },
+    "createdAt": "2026-11-24T15:07:51.663Z"
+  },
+  {
+    "userId": "usr_f7d9c9c3-eda0-456e-8eeb-270d5bd4f702",
+    "nickname": "Sr_devMiranda",
+    "nicknameLower": "sr_devmiranda",
+    "displayName": "SRdev",
+    "passwordHash": "a3efd8c5663926f0899e4c4b045378ab:14c41e8d02327e66b44074c14d421cee96cc3ff97eaa1ed11fe36e4cff0b8e458681e3a607eeb2ad191927eb752b129e70208343e678de09fa8d4fba3280afc2",
+    "coins": 0,
+    "unlockedAbilities": [
+      "dash_basic"
+    ],
+    "equippedAbility": "dash_basic",
+    "unlockedCosmetics": [],
+    "equippedCosmetics": {
+      "head": "none",
+      "back": "none"
+    },
+    "createdAt": "2026-11-24T15:11:02.074Z"
+  },
+  {
+    "userId": "usr_6650bb53-b56f-4a0e-9faa-cd108a87b9f6",
+    "nickname": "enzin_dev",
+    "nicknameLower": "enzin_dev",
+    "displayName": "Miranda",
+    "passwordHash": "efed0436974eedcb5b0c42f74a936b94:70ef912d4651451426f924093d6010fdd0ae2e81595441a72d0ca956369a8582de714baea9f8edc1e07ab15d787a3d6c9500302b3b5a70d8b89a2fa5ddfcfa63",
+    "coins": 0,
+    "unlockedAbilities": [
+      "dash_basic"
+    ],
+    "equippedAbility": "dash_basic",
+    "unlockedCosmetics": [],
+    "equippedCosmetics": {
+      "head": "none",
+      "back": "none"
+    },
+    "createdAt": "2026-11-24T15:13:15.822Z"
+  }
+]

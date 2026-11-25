@@ -1,0 +1,6 @@
+{
+  "name": "Trilhos de Cinza",
+  "description": "Jogo expressionista em tons de cinza onde três macacos fogem de um trem implacável enquanto destroem fontes de carvão pelo mapa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
